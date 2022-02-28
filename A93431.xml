@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some queries propounded to this professing generation the people called Baptists, or any of the professors upon the earth for them to answer, and heedfully to weigh and consider</title>
+            <author>Smith, William, d. 1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93431</idno>
+            <idno type="STC">Wing S4331</idno>
+            <idno type="STC">ESTC R229335</idno>
+            <idno type="EEBO-CITATION">42475211</idno>
+            <idno type="OCLC">ocm 42475211</idno>
+            <idno type="VID">151364</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151364)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2256:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some queries propounded to this professing generation the people called Baptists, or any of the professors upon the earth for them to answer, and heedfully to weigh and consider</title>
+                  <author>Smith, William, d. 1673.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the Year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed on p. 10: W.S.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptists --  England --  Controversial literature --  Quaker authors.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151364:1" rendition="simple:additions"/>
+            <head>Some Queries propounded to this profeſ<g ref="char:EOLhyphen"/>ſing Generation the people called <hi>Bap<g ref="char:EOLhyphen"/>tiſts,</hi> or any of the Profeſſors upon the earth for them to anſwer and heedfully to weigh and conſider.</head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> IS there any live but who eat, or can any live <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the Son of man and drink his blood, or have my eternall life in them? and can any eat of the fleſh of the Son of man or drink his blood unto whom he is not yet come, or have ſuch eternall life in them that eat and drink not, how can they live then unto whom he is not yet come?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> AND whether you that ſay your bread and wine is the figure of Chriſt to come are yet come to the ſubſtance, who reſt in the figures and ſha<g ref="char:EOLhyphen"/>dows, and ſo is it not in that which is weake beggerly and to vaniſh away wherein you dwell, or can figures <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed you or give you life.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> AND whether the feeding upon that which dyes of it ſelf and is periſh<g ref="char:EOLhyphen"/>ing be that which can give life yea or nay, or whether the body of Chriſt be that which is to be ſeen with the carnall eye, or can the naturall man diſ<g ref="char:EOLhyphen"/>cerne it, or is it to be eaten with the carnall mouth yea or nay?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> AND whether they doe not eat and drink unworthily that diſcerne not the Lords body, and if ſo, with what eye muſt it be diſcerned?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> IS there any thing ſhort of the fleſh of Chriſt that can give life unto the world, and doth not he that eateth of his fleſh live for ever, or whether there be any thing that can give life but it, or doe any live but they who come to feed upon it?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> B<g ref="char:V">Ʋ</g>T do they who eat of your bread and drink of your wine live for ever: ſuch who eat of that bread doe they not dye; but ſhall they ever dye that feed upon the bread of life, is not your bread then another then that and ſo doth not give life?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> MAY not drunkards, ſwearers, lyers and prophane perſons eat of your bread and drink of your wine, and ſit at your table, and have ſuch eternall life? and whether the true worſhippers are not them which worſhip
+<pb n="2" facs="tcp:151364:2" rendition="simple:additions"/>the father in ſpirit and in truth that which the Devill abode no tin, nor can get into, and whether he may not get into the outward things and viſible things which is in the deceit yea or nay? or whether their faith will not fail them at the laſt, or they doe not deceive themſelves, that have no ſurer foundation to build upon?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> IS your eating and drinking together the body of Chriſt, or his blood, ſeeing that he himſelfe ſaith whoſoever eateth of his fleſh and drinketh of his blood hath eternall life?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> AND if you ſay this you are to doe till Chriſt come or his kingdome come; but doth his kingdome come with obſervation, obſerving this or the other thing? and if he be not yet come unto you, how have you eternall life, or will the bread and wine bring him to you or bring you to eternall life, if ſo, then why may not the vil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt man that is eating of your bread and drinking of your wine which he may doe as well as you not come alſo to have eternall life?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> AND do you not make the words of Chriſt void by you traditions who ſaid the kingdome of God cometh not with obſervation, and except you eat of the fleſh of the ſon of man and drink his blood you have no life in you, can any thing ſhort of it give life, or the obſerving of any outward thing doe it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> M<g ref="char:V">Ʋ</g>ſt not this then be another manner of eating and another kind of food then what you are feeding on that muſt bring man again to life or have life in him, or are they Saints whoſe communion is not in the light, that walk not in the light, or can ſuch witneſſe the blood that cleanſeth?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12"/> ARE you Saints and do not witneſſe Chriſt come unto you, or if he be come what hath he deſtroyed in you, or can you call your ſelves Saints if Chriſt be not come unto you how came you then to be Saints, ſanctified or waſhed, for doth not Chriſt ſay except I waſh thee thou haſt no part in me: how came you then to be waſhed if Chriſt be not come unto you, and if you be not ſanctified waſhed nor cleanſed by Chriſt how came you to be Saints?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13"/> IS there any ſanctification or cleanſing but by and through him alone who is the light and life or is this work wrought without him, if not how is this work wrought in you that ſay he is not come unto you, for the Saints they knew he was come unto them, and are you Saints or can you call your ſelves Saints, and is he not come unto you, what kind of Saints are you then?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/> AND the Saints witneſſed eternall life the life of Chriſt mode manifeſt in their mortall fleſh, it doth not ſay it was in the Scriptures in the breed or in the wine to be found which you keep to, or can you expect therein to find life that will not come unto Chriſt the anointing within to teach you that you may have life?</p>
+            <pb n="3" facs="tcp:151364:2" rendition="simple:additions"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="15"/> AND doth not the ſcripture ſay in him was life, and the life was the light of men, it doth not ſay in the bread and wine was life, but it ſaith in<g ref="char:EOLhyphen"/>deed in Chriſt the anointed of God was life, who ſaid to them that ſearched the ſcriptures which teſtifie of Chriſt that they would not come to him that they might have life, or is there any coming again to the life but through the light which lighteth every man that cometh into the world?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="16"/> B<g ref="char:V">Ʋ</g>T the eating bread and drinking wine though long time it hath and may be follow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, doth it give or will it bring at laſt unto life or any out<g ref="char:EOLhyphen"/>ward obſervation, if not, then is it not high time for all people to follow that which will bring them there unto,<milestone type="tcpmilestone" unit="unspecified" n="17"/> the light wherewith Chriſt hath enlighten<g ref="char:EOLhyphen"/>ed them, who ſaith I am the light of the world he doth not ſay of the Saints only, he that followeth me ſhall not abide in darkneſs but ſhall have the light of life.</p>
+            <p>ARE not ſuch to be found among the number of the fooliſh Virgins that were ſhut out, that have a profeſſion but not the poſſeſſion of what they doe profeſſe that had Lamps but not the oile ſlumbring and ſleeping in the earth a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed on the lees in ſecurity, or may ſuch expect to find any entrance in, when the Bridegroome cometh, that are found in ſuch an eſtate.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="18"/> OR are you come any further yet then they were, or the Phariſees were then, who looked for his coming in outward obſervation and ſought for him there, one crying loe here and another loe there, and ſo miſt him when he was come, as the profeſſors and diſputers doe now?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="19"/> AND doe you beleive Chriſt to be the true Prophet, if ſo, why ſeeke you the kingdome without when he taught the kingdome of heaven was with<g ref="char:EOLhyphen"/>in, and bid not to goe forth, and you that do go forth do you abide in his do<g ref="char:EOLhyphen"/>ctrine or learn of him, when he bids do one thing and you to do another?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20"/> ARE ſuch leaders then to be followed that lead people out of Chriſts do<g ref="char:EOLhyphen"/>ctrine, or are they not rather to follow him who was given for a leader unto the people to ſee what he will lead them into, then to receive things by tradition to doe this or the other thing becauſe others have done it before?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="21"/> IS there any coming to the Power but by the light and receiving it wherewith Chriſt hath enlightened every man that cometh into the world, which John bare teſtimony off, and ſaid to as many as received him to them he gave power to become the Sons of God?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="22"/> AND whether it be bodily exerciſe that profiteth or can profit, or what have you more then bodily exerciſe in your outward obſervation: is that any longer then to be followed that profits not, but periſheth with the uſing?</p>
+            <pb n="4" facs="tcp:151364:3" rendition="simple:additions"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="23"/> AND doth not Chriſt ſay the fleſh profiteth nothing, and yet your eyes are abroad after a fleſhly Chriſt, when as the Apoſtle ſaith though I have known Chriſt after the fleſh henceforth know I him ſo no more?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="24"/> IS not all your knowledge then unprefitable and brutiſh that you know natu<g ref="char:EOLhyphen"/>rally and fleſhly, and what would it profit you if you did know more of that which is naturall and fleſhly, what would it tend unto, unleſſe to puffe you up more and to feed your curious minds, and ſo feed upon that which is carnall, and that dyes of it ſelfe, and is it not hence that you call the light carnall?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="25"/> B<g ref="char:V">Ʋ</g>T if you would be knowing then come to that which muſt give you the knowledge, the light that ſhines in your hearts which convinceth of ſin and evill, or is there any other thing can give the knowledge of God, and of his glory, but the light that ſhines in the heart is that then carnall, or is Chriſt ſpirituall and his light carnall, or is Chriſt divided?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="26"/> IF that light be a carnall or a naturall light which convinceth of ſin and e<g ref="char:EOLhyphen"/>vill which then is the ſpirituall. Is that carnall or naturall that muſt open the underſtanding in the things of God, or doth the natural man perceive the things of God, or are they not fooliſhneſſe unto him or can man diſcerne the things of God with the carnall eye, the evill eye, or with that which is at enmity with him;</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="27"/> AND do not you ſhew your ſelves to be the naturall man that perceives not the things of God, that can ſee no farther then with a carnall eye and ſo think Chriſt to be ſuch a one as your ſelves, and call the light carnall and naturall that comes from him. But that which quickens or awakens man ſleeping in the duſt of the earth, is that carnall or naturall that comes from the quickening ſpirit the Lord from heaven?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="28"/> WHen Chriſt was made manifeſt in the fleſh did the world know him then, was he not hid from the carnall and naturall men from the diſ<g ref="char:EOLhyphen"/>puters and wiſe ones then as he is now, for were not they the perſecuting and carnall Preiſts and profeſſors that riſe up againſt him then?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="29"/> OR doth it not ſhew you to be carnally minded, that dare call the light carnall that muſt give again the knowledge of God, and is not the only true God a ſpirit, and is there any knowing of him but in that which is ſpirituall?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="30"/> CAN you call that carnall or naturall which convinceth of ſin and evill in the ſecrets of the heart and conſcience, and bears witneſs againſt the carnall inclinations of fallen man, and againſt his fleſhly deſires?</p>
+            <pb n="5" facs="tcp:151364:3" rendition="simple:additions"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="31"/> OR is that a carnall Chriſt that condemneth ſin in the fleſh, and teſtifi<g ref="char:EOLhyphen"/>eth againſt that which is fleſhly and carnall, the luſts of the eye, the luſts of the fleſh, and pride of life which is in the world whoſe works are evill?</p>
+            <p>AND what doe you judge of the water that purifieth the heart and waſh<g ref="char:EOLhyphen"/>eth it, and purgeth the conſcience from dead works,<milestone type="tcpmilestone" unit="unspecified" n="32"/> and the pure water that cleanſeth the body, is that outward and carnall that ſprinkles the heart from an evill conſcience: ſeeing the Saints who were waſhed and cleanſed did not ſay they came through it by outward water, or that which was carnall and naturall, but in the name of the Lord Jeſus Chriſt and through the ſpirit of our God, and the true Church gathered out of the world up again unto God was in God, and ſo it is now, and in our Lord Jeſus Chriſt, and God was in them, &amp; this Church was ſanctified and cleanſed with the waſhing of water by the word</p>
+            <p>IS your Church then any other than worldly and outward, that outward. water can cleanſe it, and are you yet come any further than the outward Court that dwell in the outward things; when as the true Church,<milestone type="tcpmilestone" unit="unspecified" n="33"/> though a time was for the uſe of the viſibles, ſaid, we looke not at the things, which are ſeen, for the things which are ſeen are temporall, but the things which are not ſeen are eternall. Therefore you that can ſee no further then that which is viſible, but ſtand alwayes in it, doth it not ſhew that your eye is not yet o<g ref="char:EOLhyphen"/>pen which ſhould let you ſee the inviſible things?</p>
+            <p>AND your Church as you call it which ſtands in the outward waſhing and ſo without is it not full of ſpots blemiſhes and wrinckles and many ſuch things,<milestone type="tcpmilestone" unit="unspecified" n="34"/> but the Church of the firſt born according to their growth in the meaſure of grace received, witneſſe waſhing and cleanſing and are cleane through the word preſented without ſpot or blemiſh: But they whom the out<g ref="char:EOLhyphen"/>ward water waſheth, are they cleane, ſeeing no uncleane thing muſt enter, if ſo whether the vileſt and wickedſt men upon earth may not go into the water and be waſhed and cleanſed as well as you if that an outward waſhing will ſerve the turn? or are they yet come to the cleanſing who are vain, light, wanton, ſcoffing, and given to fooliſh laughter yea or nay?</p>
+            <p>B<g ref="char:V">Ʋ</g>T if you ſay that John did baptiſe with water, and many were baptiſed with water ſo did Paul circumciſe but what is that to you, you have it by tradition,<milestone type="tcpmilestone" unit="unspecified" n="35"/> John had a Commiſſion for ſo doing who ſaith he was ſent <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> baptiſe with water, but to whom hath God given or Chriſt given ſince him commiſſion to baptiſe with water, make it ap<g ref="char:EOLhyphen"/>peare if you can by plaine proofe of Scripture. Paul declares plaine<g ref="char:EOLhyphen"/>ly who himſelfe was an Apoſtle that be was not ſent to baptiſe who
+<pb n="6" facs="tcp:151364:4" rendition="simple:additions"/>ſent you then, and ſaid the baptiſme is one, and who come through this one baptiſme by the one Spirit into the one body are one, but who are after the many baptiſmes are not in the oneneſſe, neither is there true unity one with another.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="36"/> AND the other Apostles before him were bid to go forth into all Nations and teach them, but are you come forth into this worke yet, ſeeing you will pretend to take a part of it upon you, why do you not go through with it? and t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whom they had taught, he doth not ſay they were to be baptiſed with water, but in the name of the Father the Son and the holy Ghoſt, marke, it was in the name, and in the name of our Lord Jeſus Chriſt, and by the ſpirit of our God were the Saints ſanctified waſhed and cleanſed which were ſometimes uncleane with the waſhing of water by the word; but what is this to you all this while that run from the word within, into the water without you for w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhing, when there is no mention made of water outwardly, and would be found ſetting up your ſelves in the Apoſtles ſeat, and ſeem to be found doing their worke when as they though they had a Command yet ſtirred not untill they were indued with power from on high. But you have neither the Apoſtles command nor yet their power therefore your work is your own who required it at your hands what have you to do with their worke or ſet your ſelves in their ſeat that are out of their life and power, when he that was in the life and in the power and one with them declares he was not ſent to baptiſe?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="37"/> AND is that which you are ſo much pleading for and contending about, and would have held up any more then elementary, and therefore to be diſſolved the time of it's diſſolution muſt come, for are not the elements to melt with fervent heat, and is that which is to be melted and muſt come to it's diſſolution worth while ſo much to be contended about, laboured after, and and wrangled for: while you are ſo doing do you any more then ſpend your mony for that which is not bread, and your labour for that which ſatisfieth not? For what ſatisfaction hath your many years travell miniſtred unto you being from that which gives the ſatisfaction, not harkening diligently to the Law of God which restoreth the ſoul which law is light that your ſouls may live, and ſo are ſtriving and contending about the Commands and not yet come to know the Commander Chriſt the light of the world the Saviour thereof who was given for a leader and Commander <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the people who light<g ref="char:EOLhyphen"/>eth every man that cometh into the world, and talking about ordinances and are not yet come to the Fathers houſe being from the light and not walk<g ref="char:EOLhyphen"/>ing in it whe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with Chriſt hath enlightened you for God who is light, dwell<g ref="char:EOLhyphen"/>eth
+<pb n="7" facs="tcp:151364:4" rendition="simple:additions"/>in the light, which you yet manifeſt your ſelves ſtrangers unto, therefore firſt come to the houſe and then you ſhall know the ordinances of the houſe the out-goings, and in-comings thereof, for is not that firſt neceſſary to be known or how many things doe you make neceſſary unto life and ſalvation?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="38"/> B<g ref="char:V">Ʋ</g>T if you have been in the water and done the thing you are ſo much contending about are you alwayes to ſtick there, come on to perfection; for if you ſtand in the elements and keep your ſtation there when will you come to perfection, or be perfect as Chriſt command<g ref="char:EOLhyphen"/>ed his to be? Is that which ſtands in meates and drinkes outward obſerva<g ref="char:EOLhyphen"/>tions and carnoll ordinances able ever to make perfect as pertaining to the conſcience, to make the comers thereunto perfect, if not why ſtrive you ſo much to have people come unto it? Ought you not rather to bring people to Chriſt the lightithat doth increaſe to grow up in the increaſe of God then to keep people out of it, and neither come to it your ſelves nor ſuffer them that would, that keep them in a talk of that which doth decreaſe, or will that ever bring you to perfection or make you perfect which doth decreaſe, and periſh with the uſing?</p>
+            <p>
+               <hi>Gods Kingdome is within, which the light within leads again into, without which the entrance cannot be found.</hi>
+            </p>
+            <p>
+               <hi>Or the way to the Kingdom diſcovered, which is the firſt thing to be ſought after.</hi>
+            </p>
+            <p>MAny ſhall ſtrive to enter but ſhall not be able, ſuch are not turned to the light who are the unable wherewith Chriſt hath enlightened them, who is able to ſave to the uttermoſt all that come unto God by him, Heb. <hi>7.25.</hi> Mans ability is loſt or ſtrength to get in, for whoſoever findeth the ſtrength he hath found the power of God in which the ſtrength is in which is everlaſting ſtrength. And nene taſte of the power of God and receive it, but who beleive in the light and receive it wherewith Chriſt hath enlightened them, who is the true light of the world, and light<g ref="char:EOLhyphen"/>eth every man that cometh into the world, that all through him might beleive and who beleive in the light and receive it wherewith they are enlightened; to them he gives the power, ſuch have the power given unto them, to them ability is given to enter, and ſtrength to get which is found in the power that is given unto them who are turned to the light, and it receive which cometh from Chriſt to whom all power in heaven and earth is given. For
+<pb n="8" facs="tcp:151364:5" rendition="simple:additions"/>in the fall and driven out ſtate man hath loſt the power; he hath loſt the ſtrength to get in, his ability is loſt and is become weake he cannot enter, for the flaming ſword at Edens gate turneth every way to keepe the way of the tree of life; ſoe that there is no entrance in, but through the death to the life, to come to the tree of life. And mans willing and running availes not, his ſtriving cannot get in, it is only the tender mercy of God availes which is made manifeſt in the light of his Son, where the mercy comes to be ſhewed the light ſheweth it, which lighteth every man that cometh into the world, which is only able to bring man in again; for man in his willing and running obtains not, his willing cannot get in but waiting in the light receiving it and being turned to it wherewith he is enlightened,, he comes to find a graft<g ref="char:EOLhyphen"/>ing in again upon the right ſtock juice and body naturall, the light ſheweth wherein the tender mercy of God is found that brings man in again, without his willing running and ſtriving. Therefore all yee profeſſors diſputers and people who cannot ſay this you have found, the ter der mercy of God unto your ſoules, wait in the light wherewith Chriſt you hath enlightened, and turn to it, that ſheweth it. Come to the ſearch for he that ſeeketh, findeth, keep to the light which is the eye wherein the tender mercy of God is ſeene, the light ſheweth it, whereby the entrance comes again to be found, in the light ſtand ſtill, come to ſtillneſſe cooleneſſe quietneſſe in your own ſpirits, out of all heats buſlings and ſtrivings, for that obtains it not, it doth not give the en<g ref="char:EOLhyphen"/>trance in, ſtand ſtill in the light, and will nothing that ſheweth the mercy, be ſilent out of your own thoughts and comprehenſions or reachings out, and wait to be gathered in, in the light wherewith Chriſt hath enlightened you, for all fleſh is to be ſilent before the Lord God, and you kept on the watch waiting in the light and obedience, thereunto the entrance in again will find which is out of your own willing and runing, and only of God that ſheweth the mercy, which is ſhewed in the light which will guide your feet into the way of peace, the peace of God which paſſeth all underſtanding which neither the world can give nor take away, the light of the Son of God leades into who lighteth every man that cometh into the world. And to lead that life to live for ever which is not the worlds life which lyes in the wickedneſſe, or to lead ſuch a life as this or the other man lives, but to lead ſuch a life as the light wherwith every one is enlightened leads into; and every one being found doing of the will of God which is mode manifeſt in the light of the Son of God, he ſhall know of the doctrine, ſo an entrance ſhall be miniſtred into the everlaſting kingdome of the deare Son of God, which light obeying it leads
+<pb n="9" facs="tcp:151364:5" rendition="simple:additions"/>into all godlineſs and honeſty where the quiet and peaceble life is injoyed and felt, for who is here is in the feeling life, feel and ſee one another in the body and in the life which ſtands not in words meates nor drinks but in power, for thy own willing running and doing to create thee a peace obtaines not, it is the election obtaines which is in the ſeed, but to ſtand ſtill in the light and to will nothing neither to doe but what is required of thee, here is thy firſt ſtep unto peace being turned to the light to ſtand ſtill and ſee thy ſalvation, thy ſtrength is to ſit ſtill, to come to ſtillneſſe, believing in the light, for he that believes, makes not haſt, for who are in the haſt, are from the light which brings the ſalvation, and ſo ſee not the ſalvation, nor feele the ſtrength which is found in Chriſt the light and life of men, and who are here, feele and ſee one another in the life, and in the body which is above the Elements and things below in another body, and here ſee over the world, and things that are below, and feele and ſee all things in their place and order, out of the forwardneſſe to be doing, ſtriving, ſpeaking, or climbing up in the beleiving and obedience to Chriſt Jeſus the light and life.</p>
+            <p>For thou that art out of the peace thy ſelfe how canſt thou bring others into it? for Gods Kingdome ſtands in the peace which thou art out of which ſheweth thou art out of the kingdome where all buſlings ſtrivings toſſings climbings heats and colds, upps and downes ceaſe and have their end, which thou art yet in, and ſo in the elementary body where theſe things are, out of the life and feeling body which brings over theſe things and ſets them in their place; for if thou give thy body to be burned, and thy goods to the poore, in a voluntary humility, and yet out of the light and love out of the body, this ſhall profit thee nothing, where if not a word be ſpoken, yet that which is right is felt, and that which is wrong and out of it's place is ſeen and felt, for here all things come to be ſet aright in their place, where is no ſchiſme jar nor confuſion in the body and life, for who are in the toſſings are in the un<g ref="char:EOLhyphen"/>ſetled ſtate, out of the peace, and ſo ſhort of the Kingdome. For the light which convinceth of ſin and evill in the ſecrets of the heart and conſcience maketh manifeſt what is out of the peace, out of the agreement out of the covenant, which is to be departed from, and the filthy uncleane nature which hath been out from God in the tranſgreſſion, in which ſtate all mans ſtriving willing running nor climbing availes not, it can<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot enter. But comming to ſilence quietneſſe ſtillneſſe to ſtand ſtill in the light which ſheweth that nature which hath adulterated and tranſgreſſed upon which condemnation muſt paſſe abiding quietly in the meekneſſe to be led through the judgement the entrance
+<pb n="10" facs="tcp:151364:6" rendition="simple:additions"/>comes again to be found wherein the peace is witneſſed, which is out of mans power his willing or running and onely in the mercy of God which is tender, the entrance comes again to be found, ſo that here is the firſt ſtep unto peace to ſtand ſtill and will nothing, before there be a returning to that which is gone from to ſtand ſtill, to come to ſtillneſſe, and to be drawn off from all thoughts, wandrings, imaginations. Therefore come down keep lowe in the light, be lowe, and ſo you will come out of your own thoughts and imaginations above, for to feele the mercy of God in the lowlineſſe meekeneſſe and ſtillneſſe of your ſpirits which mercy man is ſeperated from in the haughtineſſe and loftineſſe of mind in the driven out ſtate from God in the earth, untill be with the light find his grafting in his entrance in for the light which leadeth out of the darkneſſe where is the tribulation and anguiſh will guide the feet into the way of peace. And the mercy of God is from generation to generation towards them that feare him in the feare of God in the mercy of God, but who are out of his feare are out of his mercy, and the feare of God is to depart from evill.</p>
+            <closer>
+               <signed>W. S.</signed>
+            </closer>
+            <postscript>
+               <p>For man being turned again unto God, in covenant with him, comes a<g ref="char:EOLhyphen"/>gain to have right, unto the things of God, unto all the creatures. As in the beginning every thing that was made was good and ſubjected in it's place ſo in the light Gods covenant with man: every creature of God is good and nothing to be refuſed, marke, but to be received, which God hath created to be received of them which believe and obey the truth.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed for</hi> M. W. <hi>in the Year, 1659.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
